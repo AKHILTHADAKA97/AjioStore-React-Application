@@ -4,6 +4,7 @@ Ajio Store is a modern, responsive e-commerce web application built with React a
 
 ---
 https://freeimage.host/i/B4ZIDNV
+https://i.postimg.cc/vBkHf6ky/Screenshot-2026-04-24-113152.png
 
 ## 📁 Project Structure
 
