@@ -1,0 +1,17 @@
+.social-icons {
+  margin-top: 5px;
+  display: flex;
+  gap: 10px;
+}
+
+.icon-link {
+  font-size: 1.5rem;
+  color: #6c757d; /* Default secondary color */
+  transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+.icon-link:hover {
+  color: #ffffff; /* White color on hover */
+  transform: scale(1.2); /* Slight zoom effect */
+}
