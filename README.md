@@ -3,8 +3,8 @@
 Ajio Store is a modern, responsive e-commerce web application built with React and Vite. It features product browsing, category filtering, a shopping cart, and a checkout flow — all powered by the [FakeStore API](https://fakestoreapi.com/).
 
 ---
-https://freeimage.host/i/B4ZIDNV
-https://i.postimg.cc/vBkHf6ky/Screenshot-2026-04-24-113152.png
+<img src="https://i.postimg.cc/vBkHf6ky/Screenshot-2026-04-24-113152.png" width="800" />
+
 
 ## 📁 Project Structure
 
